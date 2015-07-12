@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-slacker"
-  spec.version       = "0.0.1"
+  spec.version       = "0.1.0"
   spec.authors       = ["consultantrr"]
   spec.description   = "Everyone's a slacker"
   spec.summary       = "Everyone's a slacker"
